@@ -27,7 +27,7 @@
 ?>
 			</ul>
 
-			<p>Get it <a href="./games.zip">here!</p>
+			<p>Get it <a href="./games.zip">here!</a></p>
 			<p>Suggest games/add games <a href="<?=$FILE_HOST?>">here!</a></p>
 		</div>
 	</body>
